@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100" height="100" alt="HIBIKI" src="https://github.com/user-attachments/assets/26418a2b-57e7-4680-8564-e60f02502c8f" />
 
-  <h1>HIBIKI &nbsp;響</h1>
+  <h1>HIBIKI</h1>
 
   <p><em>An anime companion AI — open source, private, and entirely yours.</em></p>
 
